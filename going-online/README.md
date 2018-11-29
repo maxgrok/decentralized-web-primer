@@ -7,8 +7,15 @@ To do the lessons in this tutorial you must:
 * [Install and Initialize IPFS](/install-ipfs/README.md) on your local machine
 
 ## Learning Objectives
+These Lessons will teach you how to:
+Publish your node on the IPFS network
+Find Peers on the Network
+Retrieve Content from a Peer
+Stream Video over IPFS
 
 ## Key Concepts
+
+
 
 ## Lessons
 
